@@ -14,6 +14,6 @@ We serve our clients on-site in Porto Alegre - RS area, or remotely anywhere wit
 
 ## Contact
 
-![](/images/email.png) ricardo.demauro at gmail dot com
+![](/images/email.png) ricardo.demauro at outlook dot com
 
 ![](/images/phone.png) +55 (11) 98676-9659

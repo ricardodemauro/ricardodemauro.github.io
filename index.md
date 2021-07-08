@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# RM Tech
 
-You can use the [editor on GitHub](https://github.com/ricardodemauro/ricardodemauro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We provide worldwide IT services, such as support, training, development, and maintenance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact us by phone: +55 (11) 98676-9659.
 
-### Markdown
+## About us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are building efficient and innovative solutions for the IT market since 2020.
 
-```markdown
-Syntax highlighted code block
+## Where we serve
 
-# Header 1
-## Header 2
-### Header 3
+We serve our clients on-site in Porto Alegre - RS area, or remotely anywhere with an internet connection available.
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
+![](/images/email.png) ricardo.demauro at gmail dot com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricardodemauro/ricardodemauro.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](/images/phone.png) +55 (11) 98676-9659
